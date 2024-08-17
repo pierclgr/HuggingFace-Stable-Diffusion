@@ -1,2 +1,2 @@
 # Huggingface-Stable-Diffusion
-A notebook with the code from the [HuggingFace's tutorial for stable diffusion](https://huggingface.co/docs/diffusers/stable_diffusion).
+A series of notebooks with the code from the [HuggingFace's tutorials](https://huggingface.co/docs/diffusers/stable_diffusion) for stable diffusion.
